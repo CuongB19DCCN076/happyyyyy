@@ -1,5 +1,8 @@
 /* ============================================== POSITION
 */
+body{
+  overflow: hidden;
+}
 .cake {
   position: absolute;
   display: none;
