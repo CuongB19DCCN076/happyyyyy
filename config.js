@@ -6,7 +6,7 @@ var config = {
         "Vui vẻ",
         "Xinh đẹp",
         "Hạnh phúc",
-        "Sớm tìm ra con đường mìn mình thích",
+        "Sớm tìm ra con đường mình mình thích",
         "Hẹn chị hôm nay",
         "Gặp nhau ở",
         "Bình nguyên vô vọng",
